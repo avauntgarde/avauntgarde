@@ -2,9 +2,9 @@
 
 I'm Avaunt, a tech and programming enthusiast!
 
-I'm currently getting my toes in the water in many areas such as programming (Lua, Python, JS) and homelabbing (Proxmox, Navidrome, Jellyfin).
+I'm currently learning Python and Homelabbing.
 
-I'm using a ThinkPad T14 Gen1 AMD Pro running Fedora Hyprland.
+I'm using a ThinkPad T14 Gen1 AMD Pro running Zerene OS (Arch Linux Based Distro)
 
 The best way to reach out to me is on Discord: **@avauntgard**
 
