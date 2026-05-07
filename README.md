@@ -1,6 +1,6 @@
 ## Hello Hello 🌱
 
-I'm Avaunt, a tech and programming enthusiast!
+I'm Avan, a curious 3D Animator who started learning programming.
 
 I'm currently learning Python and Homelabbing.
 
